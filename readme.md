@@ -1,4 +1,5 @@
 # Inicializando Git local
+a
 
 Primeiro confira que o Git está instalado:
 
